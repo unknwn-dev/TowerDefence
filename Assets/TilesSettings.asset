@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86c8cd7ed8f5275aebccee14506ecbec, type: 3}
+  m_Name: TilesSettings
+  m_EditorClassIdentifier: Assembly-CSharp::TilesSettings
+  TilesList:
+  - Type: 0
+    Color: {r: 1, g: 0, b: 0, a: 1}
+    Image: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+    Prefab: {fileID: -2612957757741637415, guid: 80641631540275639a2b3173df0930f6, type: 3}
+  - Type: 1
+    Color: {r: 0.6480347, g: 0.63073885, b: 0.63073885, a: 1}
+    Image: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+    Prefab: {fileID: -4928576546085170959, guid: 20f1303a746ec27dca164bef23b481d8, type: 3}
