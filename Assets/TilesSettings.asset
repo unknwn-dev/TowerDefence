@@ -21,3 +21,11 @@ MonoBehaviour:
     Color: {r: 0.6480347, g: 0.63073885, b: 0.63073885, a: 1}
     Image: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
     Prefab: {fileID: -4928576546085170959, guid: 20f1303a746ec27dca164bef23b481d8, type: 3}
+  - Type: 2
+    Color: {r: 0.47025925, g: 0.91817546, b: 0.44099814, a: 1}
+    Image: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+    Prefab: {fileID: -4928576546085170959, guid: 20f1303a746ec27dca164bef23b481d8, type: 3}
+  - Type: 3
+    Color: {r: 0.35642898, g: 0.6334562, b: 0.83181703, a: 1}
+    Image: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+    Prefab: {fileID: -4928576546085170959, guid: 20f1303a746ec27dca164bef23b481d8, type: 3}
